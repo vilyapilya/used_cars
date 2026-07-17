@@ -26,7 +26,7 @@ Exploratory analysis revealed that:
 
 The final regression model achieved:
 - **model score** 0.74  
-- **Mean Absolute Error (MAE):** approximately $6,000  
+- **Mean Absolute Error (MAE):** approximately $4500  
 
 This means the model explains about 74% of the variation in vehicle prices and makes predictions with an average error of around $6,000.
 
