@@ -28,7 +28,7 @@ The final regression model achieved:
 - **model score** 0.74  
 - **Mean Absolute Error (MAE):** approximately $4500  
 
-This means the model explains about 74% of the variation in vehicle prices and makes predictions with an average error of around $6,000.
+This means the model explains about 74% of the variation in vehicle prices and makes predictions with an average error of around $4500.
 
 ## Recommendation for the car dealers:
 1) Focus on the cars that are no older than 2010 if you're targeting mass-market brends.
