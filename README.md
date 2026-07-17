@@ -8,7 +8,7 @@ This project analyzes a used car dataset to identify the factors that influence 
 
 The analysis includes:
 - Data cleaning and handling missing values. The data contained a lot of missing and low-quality values which where handled by performing different statistical inference methods. 
-- Exploratory data analysis (EDA) to understand price distributions and relationships between features
+- Exploratory data analysis to understand price distributions and relationships between features
 - Feature engineering to improve model performance
 - Machine learning modeling using regression techniques
 - Model evaluation using MAE, MSE, and R² score
