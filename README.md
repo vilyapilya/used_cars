@@ -31,8 +31,6 @@ The final regression model achieved:
 This means the model explains about 74% of the variation in vehicle prices and makes predictions with an average error of around $6,000.
 
 ## Recommendation for the car dealers:
-#%% md
-### Next steps and recommendations:
 1) Focus on the cars that are no older than 2010 if you're targeting mass-market brends.
 2) RAM and GMC, Audi sustain the prices better than other makes.
 3) If buying a Chrysler car, then consider that it most likely will not be sold for more than approximately 31,000 And 75% of them are sold for lower than 15,000. When the median price is less than 10,000. Buy Hyundai, Nissan and Honda with caution as well, 75% of them are sold for less than 20,000.
